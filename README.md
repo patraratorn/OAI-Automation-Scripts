@@ -1,3 +1,6 @@
+
+<img width="668" height="803" alt="image" src="https://github.com/user-attachments/assets/948367df-556b-454b-ab87-2cb58cdf02dd" />
+
 # 📡 OAI 5G Fullstack Auto Setup Script
 
 Automated script for deploying a complete **OpenAirInterface (OAI) 5G Standalone (SA)** environment including Core Network, gNB, and UE.
